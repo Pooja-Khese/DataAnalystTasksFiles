@@ -1,0 +1,5 @@
+CustomerID,Name,Age,City
+1,JOHN DOE,25,New York
+2,alice johnson,32,Los Angeles
+3,BOB SMITH,,Chicago
+4,john doe,25,New York
